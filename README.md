@@ -17,5 +17,5 @@
 - Click on the Calculate Button. 
 - Find the result above. 
 
-## Live Link
+## Repo Link
 -https://github.com/AbidaAli100/Installment-Calculator-App
