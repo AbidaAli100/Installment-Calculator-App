@@ -18,4 +18,4 @@
 - Find the result above. 
 
 ## Live Link
--
+-https://github.com/AbidaAli100/Installment-Calculator-App
