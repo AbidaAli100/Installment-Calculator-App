@@ -19,3 +19,6 @@
 
 ## Repo Link
 -https://github.com/AbidaAli100/Installment-Calculator-App
+
+## live Link
+-  https://abidaali100.github.io/Installment-Calculator-App/
